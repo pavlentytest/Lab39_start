@@ -2,4 +2,8 @@
     <string name="app_name">Lab39</string>
     <string name="action_delete">Delete</string>
     <string name="action_duplicate">Duplicate</string>
+    <string-array name="spinner_value">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
 </resources>
